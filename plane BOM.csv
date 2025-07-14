@@ -1,0 +1,11 @@
+Item,Quanity,Notes
+ 9v battery,1,powers everything
+buck converter,1,"drops from 9 to 5 v, borrowed"
+perf board,1,soldered stuff on it
+wires,depends,for the perf board
+Drone,1,we scrapped it for the motors and bought it at best buy for $25
+Rpi zero 2 W,1,Controls the motors and camera via wifi
+Camera,1,we used a 
+3d printed parts,1,these are our files(30 grams) https://github.com/the-X-alien/Plane-Thing-fr-highway/tree/main/CAD
+paper,1,printer paper for the wings
+carboard,1,you need it I guess
