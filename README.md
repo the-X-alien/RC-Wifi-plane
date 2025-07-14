@@ -14,7 +14,8 @@ We started off with many and we then narrowed them down. Our first version consi
 
 So we bought a $25 dollar drone and scrapped it. We realised that the tiny module isn't powerful enough for this so we got a Raspberry Pi Zero 2 W and we ran a whole web server on it. However Raspberry Pi foundation doesn't have packages for their cameras anymore and they basically don't work. Lucikliy after so many linux commands and so much effort, we finally found a very small unknown inbuilt module that is legacy called Picamera 2. We finally got the livestream working and we realised that we can literally stream the Camera from the roof with no lag. Finaly now after reading so many docs on PWM and how to stear, we finally have working buttons, so now we are just gonna solder everything and run the final thing. After shipping I hope to sleep beacause we pulled an all-nighter. So we'll sleep untill shipping ends beacause then they will start cermonies and stuff so untill then I (Dhiaan) will sleep atleast.
 
-https://pisces.bbystatic.com/image2/BestBuy_US/images/products/67c4ad7f-b315-42da-a9b4-45729a32970b.jpg;maxHeight=1920;maxWidth=900?format=webp
+<img width="900" height="875" alt="image" src="https://github.com/user-attachments/assets/c712b3fa-9111-4cbc-b217-33b4fcd323b9" />
+
 ## Future Updates and Support
 Our plans for the future are to implement an Auto Pilot system that doesnt really fly the drone but just helps it avoid obstacles. So we'll use IR sensors and set minimum distances and then to move back when they are reached. Then we also realzied that our drone will only work indoors where there is wifi which it can hook up on. So prehaps in the future we make it like a bluetooth device or to keep the UI Alfonso and I (Dhiaan) built with so much effort we will just make the Zero run it's own network so we can connect to the network and then fly outdoors. We will probably think of more ideas in the future but this is it for now.
 ---
