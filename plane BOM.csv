@@ -1,11 +1,11 @@
-Item,Quanity,Notes
- 9v battery,1,powers everything
-buck converter,1,"drops from 9 to 5 v, borrowed"
-perf board,1,soldered stuff on it
-wires,depends,for the perf board
-Drone,1,we scrapped it for the motors and bought it at best buy for $25
-Rpi zero 2 W,1,Controls the motors and camera via wifi
-Camera,1,we used a 
-3d printed parts,1,these are our files(30 grams) https://github.com/the-X-alien/Plane-Thing-fr-highway/tree/main/CAD
-paper,1,printer paper for the wings
-carboard,1,you need it I guess
+Item,Quanity,Notes,Link(for similar product)
+ 9v battery,1,powers everything,https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=asc_df_B00MH4QM1S?mcid=82e8b879c5b13903b3394a75e722f279&hvocijid=13845434340206946529-B00MH4QM1S-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13845434340206946529&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=pla-2281435180978&psc=1
+buck converter,1,"drops from 9 to 5 v, borrowed",https://www.amazon.com/LM2596-Converter-3-0-40V-1-5-35V-Supply/dp/B08NV3JCBC/ref=asc_df_B08NV3JCBC?mcid=05e9dde793963903a9108d9cdb3fbbf6&hvocijid=12987837161976162040-B08NV3JCBC-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12987837161976162040&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=pla-2281435178378&psc=1
+perf board,1,soldered stuff on it,https://www.amazon.com/WWZMDiB-Circuit-Protoboard-Soldering-Arduino/dp/B0CMZL4T6J/ref=sr_1_1?crid=BIAH9CPLEO4M&dib=eyJ2IjoiMSJ9.hri_twqrkyr5GmfGJyMIH_VeUEnFwjxhJvdvrJ0Td3CoPTL8XhIDkAW9ja10UaS1xxk5vc5SwAzy6RLQtL-zRXgaR8dZurcMvc1ls9_DeZ4g68yPwZLAzGzytrbKTNIe6qBLQ18Iwcu22ob7znsjBOG4XYK3yVuy3__XLaaM8PacyNO0uhXvdgEHw7m6lt60NM1M2vRLVfgeUz9f9j_EDEIvSwVFCcB4OG2LO69uOew.hE_BVR9I9McMzoprDQrmwpDhvqUS8kNjcys9C1hFCnM&dib_tag=se&keywords=perf+board&qid=1752497053&s=electronics&sprefix=perf+board%2Celectronics%2C151&sr=1-1
+wires,depends,for the perf board,https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1?crid=2B0UMOK87J9H1&dib=eyJ2IjoiMSJ9.tjHxIQLJsk16_0YVtUGN6YCrSaY0LEygvjQckb2Ua-zdkkoTmm0AvbAdH6a5uCZRDlqDKcGObe66HZBhN_R4WO8MfrcxZQvQX6hF9D6tBDvpFAq1UsKARF-a9hcJJw7jYVft3nMnEljH-E0UTNnRz_EN4KeKoJ0UuTEtJnAJds_S5_DCre5O8Pm1y5NOk0uzpTt_XRq-AAIoGIb2_Xdx6T2NKikQd4Z8BPr9zn0QcQW6IaY4p5jQkwrnMMbssP1gdmIHdfGne6nImYFX0GDknjsLRWZhDv4BbWS3XgucMMs.Cj5A2cHX8n02vICQFAO4ZIROlsIo7ThlMIotBdE2ZAA&dib_tag=se&keywords=perf+board+wires&qid=1752497073&s=electronics&sprefix=perf+board+wires%2Celectronics%2C149&sr=1-1
+Drone,1,we scrapped it for the motors and bought it at best buy for $25,https://www.bestbuy.com/site/snaptain-sp350-mini-drone-for-kids-and-beginners-with-remote-controller-blue/6473299.p?skuId=6473299
+Rpi zero 2 W,1,Controls the motors and camera via wifi,https://www.canakit.com/raspberry-pi-zero-2-w.html?srsltid=AfmBOorvudS_GJ8oN8W6cEobtwUysha2E9fiEUmhoNZcYEKoKAYSwrBY
+Camera,1,we used a ,https://www.canakit.com/raspberry-pi-camera-v2-8mp.html?cid=usd&src=raspberrypi
+3d printed parts,1,these are our files(30 grams) https://github.com/the-X-alien/Plane-Thing-fr-highway/tree/main/CAD,
+paper,1,printer paper for the wings,
+carboard,1,you need it I guess,
