@@ -16,5 +16,9 @@ So we bought a $25 dollar drone and scrapped it. We realised that the tiny modul
 ## Future Updates and Support
 Our plans for the future are to implement an Auto Pilot system that doesnt really fly the drone but just helps it avoid obstacles. So we'll use IR sensors and set minimum distances and then to move back when they are reached. Then we also realzied that our drone will only work indoors where there is wifi which it can hook up on. So prehaps in the future we make it like a bluetooth device or to keep the UI Alfonso and I (Dhiaan) built with so much effort we will just make the Zero run it's own network so we can connect to the network and then fly outdoors. We will probably think of more ideas in the future but this is it for now.
 ---
+##Wiring Diagram 
+               
+![wiring_diagram](https://github.com/user-attachments/assets/2c502ca3-6831-4236-8a6e-76b47a9a52d6)
+
 ## Pls vote and follow us for more cool projects that you'll actaully wanna check out and you follow us so you don't have to search for the cool projects and stuff.
 ---
