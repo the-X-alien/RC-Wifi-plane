@@ -1,6 +1,8 @@
 # The RC plane over wifi, connect from anywhere on the network
 ---
 <img width="851" height="429" alt="image" src="https://github.com/user-attachments/assets/7264e9a8-5da0-426a-8ac3-8a4115cee9ee" />
+
+---
 all the hardware is positioned under the plane and we haven't attached the propellers
 
 ---
